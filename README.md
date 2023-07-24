@@ -5,3 +5,4 @@
 - [💻 Notebook](https://github.com/kirenz/lab-template/tutorial/notebook.ipynb)
 - [📚 Reading]()
 - [☑️ Questions]()
+- [Mindmap]()
