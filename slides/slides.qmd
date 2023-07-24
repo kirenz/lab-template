@@ -1,0 +1,70 @@
+---
+title: Title
+lang: en
+subtitle: Overview
+author: Jan Kirenz
+execute:
+  eval: true
+  echo: true
+highlight-style: github
+format:
+  revealjs: 
+    toc: true
+    toc-depth: 1
+    embed-resources: false
+    theme: [dark, ../custom.scss]  
+    incremental: true
+    transition: slide
+    background-transition: fade
+    transition-speed: slow
+    code-copy: true
+    code-line-numbers: true
+    smaller: false
+    scrollable: true
+    slide-number: c
+    preview-links: auto
+    chalkboard: 
+      buttons: false
+   #logo: images/logo.png
+    footer: Jan Kirenz
+---
+
+# H1 {background-image="../images/dje.jpg"}
+
+## Text
+
+- a 🤖
+
+  - abc
+
+. . .
+
+- b
+
+- c^[Russell & Norvig, 2009]  
+
+📚 Required reading: [Sridharan & Purcell (2015)](https://drive.google.com/file/d/1FviQh4Qyc9c-H4gxnYkX8-yijM_T_x3L/view?usp=sharing) 
+
+
+## Image
+
+![](../images/hdm.png)
+
+<https://arxiv.org/pdf/2303.12712.pdf> 
+
+## Video
+
+{{< video https://www.youtube.com/embed/KpedmJdrTpY width="1920" height="1080">}}
+
+<!-- Video about Protein -->
+
+
+## A lot of text {.smaller}
+
+abc
+
+# Background image {background-image="../images/dje.jpg"}
+
+abc
+
+
