@@ -1,8 +1,0 @@
----
-title: "About"
----
-
-This is a Quarto slidedeck. 
-
-1. Open in VS Code
-1. Render in temrinal: quarto render
