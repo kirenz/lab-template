@@ -4,9 +4,8 @@ project:
 execute:
   freeze: auto
 
-
 website:
-  title: "slides"
+  title: "Template"
   navbar:
     left:
       - href: index.qmd
@@ -18,5 +17,3 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-
-
