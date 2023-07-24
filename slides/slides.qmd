@@ -63,7 +63,7 @@ format:
 
 abc
 
-# Background image {background-image="../images/dje.jpg"}
+# Background image {background-image="../images/hdm.png"}
 
 abc
 
