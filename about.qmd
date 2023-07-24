@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+This project contains various Quarto slide decks.
