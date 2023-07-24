@@ -43,14 +43,15 @@ format:
 
 - c^[Russell & Norvig, 2009]  
 
-📚 Required reading: [Sridharan & Purcell (2015)](https://drive.google.com/file/d/1FviQh4Qyc9c-H4gxnYkX8-yijM_T_x3L/view?usp=sharing) 
+📚 Required reading: [A & B (2023)](link) 
 
+<https://arxiv.org/pdf/2303.12712.pdf> 
 
 ## Image
 
 ![](../images/hdm.png)
 
-<https://arxiv.org/pdf/2303.12712.pdf> 
+
 
 ## Video
 
@@ -61,7 +62,7 @@ format:
 
 ## A lot of text {.smaller}
 
-abc
+Smaller heading
 
 ## Background image {background-image="../images/hdm.png"}
 
@@ -70,13 +71,11 @@ abc
 ## Code
 
 ```python
-penguins |>                                      # <1>
-  mutate(                                        # <2>
-    bill_ratio = bill_depth_mm / bill_length_mm, # <2>
-    bill_area  = bill_depth_mm * bill_length_mm  # <2>
-  )                                              # <2>
+print('Hello World')                             # <1>
+for i in LIST:                                   # <2>
+  df[i] = df[i].astype('cat')                    # <2>
 ```
-1. Take `penguins`, and then,
-2. add new columns for the bill ratio and bill area.
+1. Print Hello World, and then,
+2. transform all columns in the LIST element to categorical variables
 
 ## End
