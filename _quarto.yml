@@ -11,7 +11,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - /tutorial/notebook.ipynb
+
 
 format:
   html:
