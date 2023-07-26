@@ -6,3 +6,4 @@
 - [📚 Reading]()
 - [☑️ Questions]()
 - [Mindmap]()
+- [Weekly feedback]()
