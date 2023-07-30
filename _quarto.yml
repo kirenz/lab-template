@@ -8,7 +8,6 @@ website:
   title: "Lab"
   image: "logo.png"
   favicon: "logo.png"
-  bread-crumbs: true
   search:
     type: overlay  
   page-footer:
