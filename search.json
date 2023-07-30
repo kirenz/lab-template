@@ -4,28 +4,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
+    "text": "This is a Quarto slidedeck."
+  },
+  {
+    "objectID": "workflow.html",
+    "href": "workflow.html",
+    "title": "Workflow",
+    "section": "",
     "text": "This is a Quarto slidedeck.\n\nCreate new labs GitHub-Repo\nCreate new branch gh-pages\nChange settings in page: gh-pages and root\nOpen VS Code\nChange Quarto seetings in files\nRender all in terminal: quarto render\nPush to GitHub"
   },
   {
-    "objectID": "tutorial/notebook.html",
-    "href": "tutorial/notebook.html",
-    "title": "Notebook",
+    "objectID": "slide.html",
+    "href": "slide.html",
+    "title": "Slides",
     "section": "",
-    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
-  },
-  {
-    "objectID": "tutorial/notebook.html#setup",
-    "href": "tutorial/notebook.html#setup",
-    "title": "Notebook",
-    "section": "",
-    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
-  },
-  {
-    "objectID": "tutorial/notebook.html#data",
-    "href": "tutorial/notebook.html#data",
-    "title": "Notebook",
-    "section": "Data",
-    "text": "Data"
+    "text": "This is a Quarto slidedeck."
   },
   {
     "objectID": "index.html",
@@ -84,10 +77,31 @@
     "text": "End\n\n\nJan Kirenz"
   },
   {
-    "objectID": "workflow.html",
-    "href": "workflow.html",
-    "title": "Workflow",
+    "objectID": "tutorial/notebook.html",
+    "href": "tutorial/notebook.html",
+    "title": "Notebook",
     "section": "",
-    "text": "This is a Quarto slidedeck.\n\nCreate new labs GitHub-Repo\nCreate new branch gh-pages\nChange settings in page: gh-pages and root\nOpen VS Code\nChange Quarto seetings in files\nRender all in terminal: quarto render\nPush to GitHub"
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+  },
+  {
+    "objectID": "tutorial/notebook.html#setup",
+    "href": "tutorial/notebook.html#setup",
+    "title": "Notebook",
+    "section": "",
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+  },
+  {
+    "objectID": "tutorial/notebook.html#data",
+    "href": "tutorial/notebook.html#data",
+    "title": "Notebook",
+    "section": "Data",
+    "text": "Data"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "This is a Quarto slidedeck."
   }
 ]
