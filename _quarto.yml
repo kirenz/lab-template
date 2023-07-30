@@ -18,6 +18,8 @@ website:
         href: about.qmd
       - text: "Slides"
         href: slide.qmd
+      - text: "Resources"
+        href: resources.qmd  
       - text: "Code"
         href: code.qmd
     right:
@@ -33,6 +35,7 @@ website:
         text: Home
       - about.qmd
       - slide.qmd
+      - resources.qmd
       - code.qmd
 
 format:
