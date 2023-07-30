@@ -5,12 +5,14 @@ execute:
   freeze: auto
 
 website:
-  title: "Template"
+  title: "Lab"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - slide.qmd
+      - code.qmd
 
 
 format:
