@@ -63,6 +63,13 @@
     "text": "End\n\n\nJan Kirenz"
   },
   {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Code",
+    "section": "",
+    "text": "This is a Quarto slidedeck."
+  },
+  {
     "objectID": "tutorial/notebook.html",
     "href": "tutorial/notebook.html",
     "title": "Notebook",
