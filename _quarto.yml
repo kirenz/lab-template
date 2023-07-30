@@ -5,6 +5,7 @@ execute:
   freeze: auto
 
 website:
+  favicon: logo.png
   title: "Lab"
   navbar:
     left:
