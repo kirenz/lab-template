@@ -4,7 +4,7 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "This is a Quarto slidedeck."
+    "text": "Please find below the materials:\n\n📑 Slides\n💾 Anaconda Environment\n💻 Notebook\n📚 Reading\n☑️ Questions\nMindmap\nWeekly feedback"
   },
   {
     "objectID": "slide.html",
@@ -18,14 +18,7 @@
     "href": "index.html",
     "title": "Lab",
     "section": "",
-    "text": "Welcome to this lab!\nPlease find below the materials:\n\n📑 Slides\n💾 Anaconda Environment\n💻 Notebook\n📚 Reading\n☑️ Questions\nMindmap\nWeekly feedback"
-  },
-  {
-    "objectID": "code.html",
-    "href": "code.html",
-    "title": "Code",
-    "section": "",
-    "text": "This is a Quarto slidedeck."
+    "text": "Welcome to this lab!\n\nTask description"
   },
   {
     "objectID": "code/notebook.html",
@@ -47,6 +40,20 @@
     "title": "Notebook",
     "section": "Data",
     "text": "Data"
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Code",
+    "section": "",
+    "text": "This is a Quarto slidedeck."
+  },
+  {
+    "objectID": "case.html",
+    "href": "case.html",
+    "title": "Case",
+    "section": "",
+    "text": "This is a Quarto slidedeck."
   },
   {
     "objectID": "slides/slides.html#text",
