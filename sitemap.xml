@@ -2,30 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/kirenz/lab-template/resources.html</loc>
-    <lastmod>2023-08-01T13:41:22.277Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/kirenz/lab-template/code/notebook.html</loc>
-    <lastmod>2023-08-01T13:41:21.713Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/kirenz/lab-template/slides/slides.html</loc>
-    <lastmod>2023-08-01T13:41:19.793Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/kirenz/lab-template/index.html</loc>
-    <lastmod>2023-08-01T13:41:17.733Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/kirenz/lab-template/code.html</loc>
-    <lastmod>2023-08-01T13:41:18.397Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/kirenz/lab-template/slide.html</loc>
-    <lastmod>2023-08-01T13:41:21.421Z</lastmod>
+    <lastmod>2023-08-02T07:57:47.621Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/kirenz/lab-template/workflow.html</loc>
-    <lastmod>2023-08-01T13:41:22.009Z</lastmod>
+    <lastmod>2023-08-02T07:57:47.105Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/kirenz/lab-template/slide.html</loc>
+    <lastmod>2023-08-02T07:57:46.561Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/kirenz/lab-template/code.html</loc>
+    <lastmod>2023-08-02T07:57:43.597Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/kirenz/lab-template/index.html</loc>
+    <lastmod>2023-08-02T07:57:43.001Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/kirenz/lab-template/slides/slides.html</loc>
+    <lastmod>2023-08-02T07:57:44.965Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/kirenz/lab-template/code/notebook.html</loc>
+    <lastmod>2023-08-02T07:57:46.833Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/kirenz/lab-template/case.html</loc>
+    <lastmod>2023-08-02T07:57:47.357Z</lastmod>
   </url>
 </urlset>

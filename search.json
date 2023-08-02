@@ -4,28 +4,35 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
+    "text": "Please find below the materials:\n\n📑 Slides\n💾 Anaconda Environment\n💻 Notebook\n📚 Reading\n☑️ Questions\nMindmap\nWeekly feedback"
+  },
+  {
+    "objectID": "workflow.html",
+    "href": "workflow.html",
+    "title": "Workflow",
+    "section": "",
+    "text": "This is a Quarto slidedeck.\n\nCreate new labs GitHub-Repo\nCreate new branch gh-pages\nChange settings in page: gh-pages and root\nOpen VS Code\nChange Quarto seetings in files\nRender all in terminal: quarto render\nPush to GitHub"
+  },
+  {
+    "objectID": "slide.html",
+    "href": "slide.html",
+    "title": "Slides",
+    "section": "",
     "text": "This is a Quarto slidedeck."
   },
   {
-    "objectID": "code/notebook.html",
-    "href": "code/notebook.html",
-    "title": "Notebook",
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Code",
     "section": "",
-    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+    "text": "This is a Quarto slidedeck."
   },
   {
-    "objectID": "code/notebook.html#setup",
-    "href": "code/notebook.html#setup",
-    "title": "Notebook",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lab",
     "section": "",
-    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
-  },
-  {
-    "objectID": "code/notebook.html#data",
-    "href": "code/notebook.html#data",
-    "title": "Notebook",
-    "section": "Data",
-    "text": "Data"
+    "text": "Welcome to this lab!\n\nTask description"
   },
   {
     "objectID": "slides/slides.html#text",
@@ -77,31 +84,31 @@
     "text": "End\n\n\nJan Kirenz"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Lab",
+    "objectID": "code/notebook.html",
+    "href": "code/notebook.html",
+    "title": "Notebook",
     "section": "",
-    "text": "Welcome to this lab!\nPlease find below the materials:\n\n📑 Slides\n💾 Anaconda Environment\n💻 Notebook\n📚 Reading\n☑️ Questions\nMindmap\nWeekly feedback"
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
   },
   {
-    "objectID": "code.html",
-    "href": "code.html",
-    "title": "Code",
+    "objectID": "code/notebook.html#setup",
+    "href": "code/notebook.html#setup",
+    "title": "Notebook",
+    "section": "",
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+  },
+  {
+    "objectID": "code/notebook.html#data",
+    "href": "code/notebook.html#data",
+    "title": "Notebook",
+    "section": "Data",
+    "text": "Data"
+  },
+  {
+    "objectID": "case.html",
+    "href": "case.html",
+    "title": "Case",
     "section": "",
     "text": "This is a Quarto slidedeck."
-  },
-  {
-    "objectID": "slide.html",
-    "href": "slide.html",
-    "title": "Slides",
-    "section": "",
-    "text": "This is a Quarto slidedeck."
-  },
-  {
-    "objectID": "workflow.html",
-    "href": "workflow.html",
-    "title": "Workflow",
-    "section": "",
-    "text": "This is a Quarto slidedeck.\n\nCreate new labs GitHub-Repo\nCreate new branch gh-pages\nChange settings in page: gh-pages and root\nOpen VS Code\nChange Quarto seetings in files\nRender all in terminal: quarto render\nPush to GitHub"
   }
 ]
