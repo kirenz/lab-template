@@ -6,8 +6,8 @@ execute:
 
 website:
   title: "Lab"
-  image: "logo.png"
-  favicon: "logo.png"
+  image: "/images/logo.png"
+  favicon: "/images/logo.png"
   search:
     type: overlay  
   page-footer:
