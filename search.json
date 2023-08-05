@@ -7,20 +7,6 @@
     "text": "Please find below the materials:\n\n📑 Slides\n💾 Anaconda Environment\n💻 Notebook\n📚 Reading\n☑️ Questions\nMindmap\nWeekly feedback"
   },
   {
-    "objectID": "workflow.html",
-    "href": "workflow.html",
-    "title": "Workflow",
-    "section": "",
-    "text": "This is a Quarto slidedeck.\n\nCreate new labs GitHub-Repo\nCreate new branch gh-pages\nChange settings in page: gh-pages and root\nOpen VS Code\nChange Quarto seetings in files\nRender all in terminal: quarto render\nPush to GitHub"
-  },
-  {
-    "objectID": "slide.html",
-    "href": "slide.html",
-    "title": "Slides",
-    "section": "",
-    "text": "This is a Quarto slidedeck."
-  },
-  {
     "objectID": "code.html",
     "href": "code.html",
     "title": "Code",
@@ -33,6 +19,20 @@
     "title": "Lab",
     "section": "",
     "text": "Welcome to this lab!\n\nTask description"
+  },
+  {
+    "objectID": "case.html",
+    "href": "case.html",
+    "title": "Case",
+    "section": "",
+    "text": "This is a Quarto slidedeck."
+  },
+  {
+    "objectID": "slide.html",
+    "href": "slide.html",
+    "title": "Slides",
+    "section": "",
+    "text": "This is a Quarto slidedeck."
   },
   {
     "objectID": "slides/slides.html#text",
@@ -103,12 +103,5 @@
     "title": "Notebook",
     "section": "Data",
     "text": "Data"
-  },
-  {
-    "objectID": "case.html",
-    "href": "case.html",
-    "title": "Case",
-    "section": "",
-    "text": "This is a Quarto slidedeck."
   }
 ]
