@@ -32,7 +32,7 @@ USE `db_ecommerce`;
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-- [Visual Studio Code Extensions]()
+- [Visual Studio Code Extensions](https://vscode.dev/profile/github/94d1b9a0184dec88655f9622c87b866d)
 
 
 ## Anaconda Environment
@@ -40,6 +40,8 @@ USE `db_ecommerce`;
 Install the Anaconda Environment `env-mr-pip.yml`
 
 - [💾 Anaconda Environment](https://github.com/kirenz/environments)
+
+
 
 - [🖥 Slides]()
 - [📑 Slides]()
