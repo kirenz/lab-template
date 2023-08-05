@@ -1,5 +1,0 @@
----
-title: "Case"
----
-
-This is a Quarto slidedeck. 
