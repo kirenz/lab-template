@@ -5,5 +5,5 @@ title: "Lab"
 Welcome to this lab!
 
 
-- [Task description](case.qmd)
+- [Assignemnts](/assignments.qmd)
 
