@@ -1,5 +1,5 @@
 ---
-title: "Lab"
+title: "Welcome 👋"
 ---
 
 Welcome to this lab!
