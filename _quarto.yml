@@ -22,7 +22,7 @@ website:
         href: assignments.qmd
     right:
       - icon: person-circle
-        href: https://e-learning.hdm-stuttgart.de/moodle/login/index.php
+        href: https://moodle.hdm-stuttgart.de/login/index.php
         aria-label: Moodle           
   navbar:
     left:
