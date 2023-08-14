@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Welcome 👋",
     "section": "",
-    "text": "Welcome to this lab!\n\nAssignemnts"
+    "text": "Lab “Name”\nIn this lab you will …\n\n\n\n\n\n\nImportant\n\n\n\nMake sure you meet all the requirements and have read the lecture slides before you start with the assignments\n\n\nWhat you will learn in this lab:\n\nHow to set up a MySQL database\nUse SQL for data analysis\nMake use of Pandas for data analysis in Python\nUse Altair for data visualization in Python"
   },
   {
     "objectID": "slide.html",
