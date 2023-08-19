@@ -1,8 +1,8 @@
 ---
-title: Title
+title: Slides 
 lang: en
-subtitle: Overview
-author: Jan Kirenz
+subtitle: Tutorial
+author: ""
 execute:
   eval: true
   echo: true
@@ -13,7 +13,7 @@ format:
     toc-depth: 1
     embed-resources: false
     theme: [dark, ../custom.scss]  
-    incremental: true
+    incremental: false
     transition: slide
     background-transition: fade
     transition-speed: slow
@@ -29,53 +29,49 @@ format:
     footer: Jan Kirenz
 ---
 
-# H1 {background-image="../images/dje.jpg"}
+# About {background-color="white"}
 
-## Text
+This presentation is made with [Quarto](https://quarto.org/) (scientific and technical publishing system) and [Revealjs](https://revealjs.com/) (HTML presentation framework)
 
-- a 🤖
+# Basic navigation {.smaller background-color="white"}
 
-  - abc
+Basic navigation is done using the following keyboard shortcuts:
 
-. . .
+| Action                     | Keys                                       |
+|----------------------------|--------------------------------------------|
+| Next slide                 | `→` or `SPACE` or `N` |
+| Previous slide             | `←` or `P`                  |
+| Navigate without fragments | `Alt→` or `Alt←`          |
+| Jump to first/last slide   | `Shift→` or `Shift←`      |
+| Overview of all slides     | `Esc` or `o`       |
 
-- b
+# Navigation Menu {background-color="white"}
 
-- c^[Russell & Norvig, 2009]  
+- You can access the navigation menu using the button located in the bottom left corner of the presentation. 
 
-📚 Required reading: [A & B (2023)](link) 
+![](/images/menu.png)
 
-<https://arxiv.org/pdf/2303.12712.pdf> 
+## Jump to slides
 
-## Image
+- Clicking the button opens a slide navigation menu that enables you to easily jump to any slide
 
-![](../images/hdm.png)
-
-
-
-## Video
-
-{{< video https://www.youtube.com/embed/KpedmJdrTpY width="1920" height="1080">}}
-
-<!-- Video about Protein -->
+![](/images/navigation.png)
 
 
-## A lot of text {.smaller}
+# Save presention as PDF {background-color="white" .smaller}
 
-Smaller heading
 
-## Background image {background-image="../images/hdm.png"}
+![](/images/pdf.png)
 
-abc
 
-## Code
+- Access the navigation menu using the button located in the bottom left corner of the presentation and select **Tools**. 
 
-```python
-print('Hello World')                             # <1>
-for i in LIST:                                   # <2>
-  df[i] = df[i].astype('cat')                    # <2>
-```
-1. Print Hello World, and then,
-2. transform all columns in the LIST element to categorical variables
+- Select **PDF Export Mode** (this may take a few seconds)
 
-## End
+- Use your Browser to save the slide as PDF (it is recommended to use [Google Chrome](https://www.google.com/intl/de_de/chrome/))
+
+
+# Print presentation  {background-color="white"}
+
+- Simply follow the steps described in "Save presention as PDF" 
+- Print the PDF  
