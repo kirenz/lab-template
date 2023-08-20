@@ -25,14 +25,56 @@
     "href": "slide.html",
     "title": "Slides",
     "section": "",
-    "text": "This is a Quarto slidedeck."
+    "text": "This is a Quarto slidedeck.\n\n\n\n\n\n\nTake a look at the slide instructions to learn how to use all slide options"
   },
   {
-    "objectID": "slides/slides.html#jump-to-slides",
-    "href": "slides/slides.html#jump-to-slides",
-    "title": "Slides",
-    "section": "Jump to slides",
-    "text": "Jump to slides\n\nClicking the button opens a slide navigation menu that enables you to easily jump to any slide"
+    "objectID": "slides/slides.html#text",
+    "href": "slides/slides.html#text",
+    "title": "Title",
+    "section": "Text",
+    "text": "Text\n\na 🤖\n\nabc\n\n\n\n\nb\nc1\n\n📚 Required reading: A & B (2023)\nhttps://arxiv.org/pdf/2303.12712.pdf\n\nRussell & Norvig, 2009"
+  },
+  {
+    "objectID": "slides/slides.html#image",
+    "href": "slides/slides.html#image",
+    "title": "Title",
+    "section": "Image",
+    "text": "Image"
+  },
+  {
+    "objectID": "slides/slides.html#video",
+    "href": "slides/slides.html#video",
+    "title": "Title",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "slides/slides.html#a-lot-of-text",
+    "href": "slides/slides.html#a-lot-of-text",
+    "title": "Title",
+    "section": "A lot of text",
+    "text": "A lot of text\nSmaller heading"
+  },
+  {
+    "objectID": "slides/slides.html#background-image",
+    "href": "slides/slides.html#background-image",
+    "title": "Title",
+    "section": "Background image",
+    "text": "Background image\nabc"
+  },
+  {
+    "objectID": "slides/slides.html#code",
+    "href": "slides/slides.html#code",
+    "title": "Title",
+    "section": "Code",
+    "text": "Code\n1print('Hello World')\n2for i in LIST:\n  df[i] = df[i].astype('cat')\n\n1\n\nPrint Hello World, and then,\n\n2\n\ntransform all columns in the LIST element to categorical variables"
+  },
+  {
+    "objectID": "slides/slides.html#end",
+    "href": "slides/slides.html#end",
+    "title": "Title",
+    "section": "End",
+    "text": "End\n\n\nJan Kirenz"
   },
   {
     "objectID": "code/notebook.html",
