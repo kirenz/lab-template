@@ -2,7 +2,7 @@
 title: "Welcome 👋"
 ---
 
-*Lab "Name"*
+*Lab "Name" (📁 )*
 
 In this lab you will ...
 
