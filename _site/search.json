@@ -7,32 +7,53 @@
     "text": "This is a Quarto slidedeck."
   },
   {
-    "objectID": "slides/slides.html#basic-navigation",
-    "href": "slides/slides.html#basic-navigation",
-    "title": "Slides",
-    "section": "Basic navigation",
-    "text": "Basic navigation\nBasic navigation is done using the following keyboard shortcuts:\n\n\n\n\n\n\n\nAction\nKeys\n\n\n\n\nNext slide\n→ or SPACE or N\n\n\nPrevious slide\n← or P\n\n\nNavigate without fragments\nAlt → Alt ←\n\n\nJump to first/last slide\nShift → Shift ←\n\n\nOverview of all slides\nEsc"
+    "objectID": "slides/slides.html#text",
+    "href": "slides/slides.html#text",
+    "title": "Title",
+    "section": "Text",
+    "text": "Text\n\na 🤖\n\nabc\n\n\n\n\nb\nc1\n\n📚 Required reading: A & B (2023)\nhttps://arxiv.org/pdf/2303.12712.pdf\n\nRussell & Norvig, 2009"
   },
   {
-    "objectID": "slides/slides.html#navigation-menu",
-    "href": "slides/slides.html#navigation-menu",
-    "title": "Slides",
-    "section": "Navigation Menu",
-    "text": "Navigation Menu\n\nYou can access the navigation menu using the button located in the bottom left corner of the presentation.\nClicking the button opens a slide navigation menu that enables you to easily jump to any slide:"
+    "objectID": "slides/slides.html#image",
+    "href": "slides/slides.html#image",
+    "title": "Title",
+    "section": "Image",
+    "text": "Image"
   },
   {
-    "objectID": "slides/slides.html#save-presention-as-pdf",
-    "href": "slides/slides.html#save-presention-as-pdf",
-    "title": "Slides",
-    "section": "Save presention as PDF",
-    "text": "Save presention as PDF\n\nAccess the navigation menu using the button located in the bottom left corner of the presentation.\nThe navigation menu also includes a Tools pane that provides access to the various other navigation tools including Print to PDF.\nIt is recommended to use Google Chrome if you want to print the slides as PDF"
+    "objectID": "slides/slides.html#video",
+    "href": "slides/slides.html#video",
+    "title": "Title",
+    "section": "Video",
+    "text": "Video"
   },
   {
-    "objectID": "slides/slides.html#print-presentation",
-    "href": "slides/slides.html#print-presentation",
-    "title": "Slides",
-    "section": "Print presentation",
-    "text": "Print presentation\n\nSimply follow the steps described in “Save presention as PDF” and print the PDF.\n\n\n\nJan Kirenz"
+    "objectID": "slides/slides.html#a-lot-of-text",
+    "href": "slides/slides.html#a-lot-of-text",
+    "title": "Title",
+    "section": "A lot of text",
+    "text": "A lot of text\nSmaller heading"
+  },
+  {
+    "objectID": "slides/slides.html#background-image",
+    "href": "slides/slides.html#background-image",
+    "title": "Title",
+    "section": "Background image",
+    "text": "Background image\nabc"
+  },
+  {
+    "objectID": "slides/slides.html#code",
+    "href": "slides/slides.html#code",
+    "title": "Title",
+    "section": "Code",
+    "text": "Code\n1print('Hello World')\n2for i in LIST:\n  df[i] = df[i].astype('cat')\n\n1\n\nPrint Hello World, and then,\n\n2\n\ntransform all columns in the LIST element to categorical variables"
+  },
+  {
+    "objectID": "slides/slides.html#end",
+    "href": "slides/slides.html#end",
+    "title": "Title",
+    "section": "End",
+    "text": "End\n\n\nJan Kirenz"
   },
   {
     "objectID": "code/notebook.html",
@@ -82,26 +103,5 @@
     "title": "Workflow",
     "section": "",
     "text": "This is a Quarto slidedeck.\n\nCreate new labs GitHub-Repo\nCreate new branch gh-pages\nChange settings in page: gh-pages and root\nOpen VS Code\nChange Quarto seetings in files\nRender all in terminal: quarto render\nPush to GitHub"
-  },
-  {
-    "objectID": "slides/slides.html#save-a-presention-as-pdf",
-    "href": "slides/slides.html#save-a-presention-as-pdf",
-    "title": "Slides",
-    "section": "Save a presention as PDF",
-    "text": "Save a presention as PDF\n\nAccess the navigation menu using the button located in the bottom left corner of the presentation.\nThe navigation menu also includes a Tools pane that provides access to the various other navigation tools including Print to PDF.\nIt is recommended to use Google Chrome if you want to print the slides as PDF"
-  },
-  {
-    "objectID": "slides/slides.html#print-a-presentation",
-    "href": "slides/slides.html#print-a-presentation",
-    "title": "Slides",
-    "section": "Print a presentation",
-    "text": "Print a presentation\n\nSimply follow the steps described in “Save presention as PDF” and print the PDF.\n\n\n\nJan Kirenz"
-  },
-  {
-    "objectID": "slides/slides.html#jump-to-slides",
-    "href": "slides/slides.html#jump-to-slides",
-    "title": "Slides",
-    "section": "Jump to slides",
-    "text": "Jump to slides\n\nClicking the button opens a slide navigation menu that enables you to easily jump to any slide"
   }
 ]
