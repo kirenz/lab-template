@@ -1,7 +1,21 @@
+# ignore environment files
+.env
+code/.env
+*/.env
 
+# ignore macOS folder attribute files
 .DS_Store
 */.DS_Store
-code/.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# other files to ignore
 /.quarto/
 workflow.qmd
 quiz.txt
