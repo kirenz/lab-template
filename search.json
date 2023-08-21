@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "requirements.html",
+    "href": "requirements.html",
+    "title": "Requirements",
+    "section": "",
+    "text": "To start this lab, you’ll need the following environments:\n\n\n\n\n\n\nImportant\n\n\n\nVisit the “Programming Toolkit-webpage” to learn how to meet all requirements.\n\n\n\nSQL: MySQL, MySQL Workbench and a database called db_data\nPython: Anaconda, Anaconda Environment lab and Visual Studio Code\nEnvironment: A folder on your machine called competitive and an environment file with your MySQL password"
+  },
+  {
+    "objectID": "code/notebook.html",
+    "href": "code/notebook.html",
+    "title": "Notebook",
+    "section": "",
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+  },
+  {
+    "objectID": "code/notebook.html#setup",
+    "href": "code/notebook.html#setup",
+    "title": "Notebook",
+    "section": "",
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+  },
+  {
+    "objectID": "code/notebook.html#data",
+    "href": "code/notebook.html#data",
+    "title": "Notebook",
+    "section": "Data",
+    "text": "Data"
+  },
+  {
     "objectID": "assignments.html",
     "href": "assignments.html",
     "title": "Assignments",
@@ -7,11 +35,11 @@
     "text": "This is a Quarto slidedeck."
   },
   {
-    "objectID": "requirements.html",
-    "href": "requirements.html",
-    "title": "Requirements",
+    "objectID": "slide.html",
+    "href": "slide.html",
+    "title": "Slides",
     "section": "",
-    "text": "To start this lab, you’ll need the following environments:\n\nSQL: MySQL, MySQL Workbench and a database called db_data\nPython: Anaconda, Anaconda Environment lab and Visual Studio Code\nWorking environment: A folder on your machine called competitive and an environment file with your MySQL password\n\n\n\n\n\n\n\nImportant\n\n\n\nVisit the “Programming Toolkit-webpage” to learn how to set up the environments."
+    "text": "This is a Quarto slidedeck.\n\n\n\n\n\n\nTake a look at the slides tutorial to learn how to use all slide options"
   },
   {
     "objectID": "index.html",
@@ -19,13 +47,6 @@
     "title": "Welcome 👋",
     "section": "",
     "text": "Lab “Name” (📁 )\nIn this lab you will …\n\n\n\n\n\n\nImportant\n\n\n\nMake sure you meet all the requirements and have read the lecture slides before you start with the assignments\n\n\nWhat you will learn in this lab:\n\nHow to set up a MySQL database\nUse SQL for data analysis\nMake use of Pandas for data analysis in Python\nUse Altair for data visualization in Python"
-  },
-  {
-    "objectID": "slide.html",
-    "href": "slide.html",
-    "title": "Slides",
-    "section": "",
-    "text": "This is a Quarto slidedeck.\n\n\n\n\n\n\nTake a look at the slides tutorial to learn how to use all slide options"
   },
   {
     "objectID": "slides/slides.html#text",
@@ -75,26 +96,5 @@
     "title": "Title",
     "section": "End",
     "text": "End\n\n\nJan Kirenz"
-  },
-  {
-    "objectID": "code/notebook.html",
-    "href": "code/notebook.html",
-    "title": "Notebook",
-    "section": "",
-    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
-  },
-  {
-    "objectID": "code/notebook.html#setup",
-    "href": "code/notebook.html#setup",
-    "title": "Notebook",
-    "section": "",
-    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
-  },
-  {
-    "objectID": "code/notebook.html#data",
-    "href": "code/notebook.html#data",
-    "title": "Notebook",
-    "section": "Data",
-    "text": "Data"
   }
 ]
