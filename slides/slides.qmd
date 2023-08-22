@@ -1,5 +1,9 @@
 ---
 title: Title
+title-slide-attributes:
+  data-background-image: ../images/logo.png
+  data-background-size: contain
+  data-background-opacity: "0.5"
 lang: en
 subtitle: Overview
 author: Jan Kirenz
@@ -25,7 +29,7 @@ format:
     preview-links: auto
     chalkboard: 
       buttons: false
-   #logo: images/logo.png
+   # logo: ../images/logo.png
     footer: Jan Kirenz
 ---
 
@@ -78,4 +82,9 @@ for i in LIST:                                   # <2>
 1. Print Hello World, and then,
 2. transform all columns in the LIST element to categorical variables
 
-## End
+# What's next? {background-image="../images/logo.png" background-opacity="0.5"}
+
+- **Congratulations! You have completed this tutorial** 👍
+
+- **Next, you may want to go back to the [lab's website](/index.qmd)**
+
