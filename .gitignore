@@ -15,8 +15,10 @@ __pycache__/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# other files to ignore
+# other files and environments to ignore
 /.quarto/
 workflow.qmd
 quiz.txt
 howto.qmd
+/slides/env/*
+/slides/env/
