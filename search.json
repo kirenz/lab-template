@@ -39,14 +39,21 @@
     "href": "slide.html",
     "title": "Slides",
     "section": "",
-    "text": "This is a Quarto slidedeck.\n\n\n\n\n\n\nTake a look at the slides tutorial to learn how to use all slide options"
+    "text": "The following tutorials are mainly based on “” provided by\nTxt"
+  },
+  {
+    "objectID": "slide.html#txt",
+    "href": "slide.html#txt",
+    "title": "Slides",
+    "section": "1 Txt",
+    "text": "1 Txt\nIn this tutorial, you’ll learn:\n\n\n\n\n\n\n\n🖥️ Presentation\n💻 Jupyter Notebook"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome 👋",
     "section": "",
-    "text": "Lab “Name” (📁 )\nIn this lab you will …\n\n\n\n\n\n\nImportant\n\n\n\nMake sure you meet all the requirements and have read the lecture slides before you start with the assignments\n\n\nWhat you will learn in this lab:\n\nHow to set up a MySQL database\nUse SQL for data analysis\nMake use of Pandas for data analysis in Python\nUse Altair for data visualization in Python"
+    "text": "Welcome to the lab ““\n\nIn this lab you will …\n\n\n\n\n\n\nImportant\n\n\n\nMake sure you meet all the requirements and have read the lecture slides before you start with the assignments\n\n\nWhat you will learn in this lab:\n\nHow to set up a MySQL database\nUse SQL for data analysis\nMake use of Pandas for data analysis in Python\nUse Altair for data visualization in Python"
   },
   {
     "objectID": "slides/slides.html#text",
