@@ -1,14 +1,14 @@
 ---
-title: Title
+title: foo
 title-slide-attributes:
   data-background-image: ../images/logo.png
   data-background-size: contain
   data-background-opacity: "0.5"
 lang: en
-subtitle: Overview
+subtitle: foo
 author: Jan Kirenz
 execute:
-  eval: true
+  eval: false
   echo: true
 highlight-style: github
 format:
@@ -86,5 +86,7 @@ for i in LIST:                                   # <2>
 
 - **Congratulations! You have completed this tutorial** 👍
 
-- **Next, you may want to go back to the [lab's website](/index.qmd)**
+**Next, you may want to go back to the [lab's website](https://kirenz.github.io/foo/)**
+
+
 
