@@ -2,4 +2,7 @@
 title: "Assignments"
 ---
 
-This is a Quarto slidedeck. 
+Download the Jupyter Notebooks in your local folder `xyz`. 
+
+
+- [Task 1: ](https://colab.research.google.com/github/kirenz/lab-xyz/blob/main/code/xyz.ipynb)
