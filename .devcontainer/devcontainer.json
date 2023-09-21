@@ -32,7 +32,8 @@
 				"ms-semantic-kernel.semantic-kernel",
 				"mtxr.sqltools",
 				"mtxr.sqltools-driver-mysql",
-				"vscode-icons-team.vscode-icons"
+				"vscode-icons-team.vscode-icons",
+				"akamud.vscode-theme-onedark"
 
 			]
 		}
