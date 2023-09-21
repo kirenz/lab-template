@@ -18,7 +18,6 @@
 		"vscode": {
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
-				"streetsidesoftware.code-spell-checker",
 				"ms-python.autopep8",
 				"github.codespaces",
 				"github.vscode-pull-request-github",
