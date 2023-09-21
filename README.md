@@ -1,9 +1,8 @@
 # Welcome to our lab 👋
 
+You can open the Jupyter Notebooks in Colab (on this [site](https://kirenz.github.io/lab-template/slide.html)) or in GitHub Codespaces (see instructions below).
 
 ## Create Codespace
-
-You can open the Jupyter Notebooks in GitHub Codespaces.
 
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/kirenz/lab-template?quickstart=1)
@@ -28,7 +27,9 @@ After your Codepsace is ready, you may want to:
 
 - Open *Extensions*, select *Atom One Dark Theme* and click twice on *Set Color Theme* to change the user interface
 
-- Open *Explorer* and open the folder 📂 *code*. Now you can select a Jupyter Notebook and start coding.
+- Open *Explorer* and open the folder 📂 *code*. Now you can select a Jupyter Notebook
+
+- Click on the *Kernel* picker, choose *Python environments* and select the latest Python version
 
 - Note that the changes you make during the container session are not saved (this is only done with commits to the GitHub repo)
 
