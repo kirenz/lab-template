@@ -10,7 +10,7 @@ Welcome to the lab *""*
 In this lab you will ...
 
 ::: {.callout-important}
-Make sure you meet all the [requirements](/requirements.qmd) and have read the lecture [slides](/slide.qmd) before you start with the [assignments](/assignments.qmd) 
+Make sure you meet all the [requirements](/require.qmd) and have read the lecture [slides](/slide.qmd) before you start with the [assignments](/assignments.qmd) 
 :::
 
 What you will learn in this lab:
